@@ -19,5 +19,7 @@ Step 3: Run the program
 
 Now we have successfully created
 
+For more information on this project, watch video: https://youtu.be/CXqmiQnRBcg
+
 All the best!
 Happy coding!
